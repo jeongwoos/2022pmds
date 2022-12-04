@@ -1,4 +1,5 @@
 ## Architecture
+
 ![Architecture](images/Architecture.png)
 
 ## Components
