@@ -10,7 +10,4 @@
 |         Infra         | `AWS EC2`, `AWS Auto Scaling`, `Docker`, `Jenkins`, |
 |       API Docs        |                      `Swagger`                      |
 
-
-## API Docs
-![API 문서](images/api-docs.png)
-- [🔗 Swagger](http://13.209.66.134:8080/swagger-ui.html#/)
+asdf
