@@ -12,7 +12,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import static springfox.documentation.builders.RequestHandlerSelectors.basePackage;
 
 @Configuration
-//@EnableSwagger2
+@EnableSwagger2
 public class SwaggerConfig {
 
     @Bean
